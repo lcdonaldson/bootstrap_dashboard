@@ -5,6 +5,10 @@ The following are screen shots of the different tabs so you can enjoy what the l
 
 ![Alt text](https://github.com/lcdonaldson/bootstrap_dashboard/blob/master/dashList.png)
 
+
+
 ![Alt text](https://github.com/lcdonaldson/bootstrap_dashboard/blob/master/dashUser.png)
+
+
 
 ![Alt text](https://github.com/lcdonaldson/bootstrap_dashboard/blob/master/dashStatistic.png)
