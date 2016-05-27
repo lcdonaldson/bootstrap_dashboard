@@ -34,7 +34,7 @@ $(function () {
         // },
         yAxis: {
             title: {
-                text: 'Signups Per Day'
+                text: 'Daily Signups'
             }
         },
         tooltip: {
